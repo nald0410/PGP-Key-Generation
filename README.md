@@ -1,1 +1,1 @@
-# PGP-Keygen-Decryption
+# PGP-KEYGEN-ENCRYPTION
